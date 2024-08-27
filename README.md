@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d6210456-50c4-4be6-9fa8-f0bdc1ffae3a)
+
+
 # School Board DAO - README
 
 ## Vision
